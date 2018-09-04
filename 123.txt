@@ -1,1 +1,2 @@
-My name is xiaoming
+My name is xiaoming this is a distributed version control system
+You are donkey.
